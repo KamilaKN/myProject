@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptatibus dicta quis optio necessitatibus laboriosam, modi repellat iure id qui perspiciatis architecto praesentium? Error esse consequatur praesentium ab repudiandae fugiat perferendis adipisci facere cupiditate, mollitia aliquid harum. Cumque illo in, sequi deleniti eveniet earum reiciendis accusantium facilis nisi esse minus vel, voluptas sint quis error. Cupiditate sunt omnis, eius aspernatur minima qui cumque similique animi porro quae quidem. Dolor quibusdam magnam sunt aspernatur asperiores at explicabo quos nulla eius, ducimus consequatur quae suscipit, dicta tenetur quasi minima ipsa ab? Harum eius officia qui saepe impedit, non hic voluptatem. Maiores, accusamus, vero blanditiis non aspernatur tenetur optio aut deleniti at repellendus, delectus vel aliquam ab praesentium et odit necessitatibus voluptatem? Molestias.",
+      "price": "Платный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 2,
+      "img": "https://img.rl0.ru/afisha/e630x315p0x0f1260x720q85i/s2.afisha.ru/mediastorage/89/90/9a6f49ac22c042c6b13b44f99089.jpeg",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptatibus dicta quis optio necessitatibus laboriosam, modi repellat iure id qui perspiciatis architecto praesentium? Error esse consequatur praesentium ab repudiandae fugiat perferendis adipisci facere cupiditate, mollitia aliquid harum. Cumque illo in, sequi deleniti eveniet earum reiciendis accusantium facilis nisi esse minus vel, voluptas sint quis error. Cupiditate sunt omnis, eius aspernatur minima qui cumque similique animi porro quae quidem. Dolor quibusdam magnam sunt aspernatur asperiores at explicabo quos nulla eius, ducimus consequatur quae suscipit, dicta tenetur quasi minima ipsa ab? Harum eius officia qui saepe impedit, non hic voluptatem. Maiores, accusamus, vero blanditiis non aspernatur tenetur optio aut deleniti at repellendus, delectus vel aliquam ab praesentium et odit necessitatibus voluptatem? Molestias.",
+      "price": "Бесплатный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptatibus dicta quis optio necessitatibus laboriosam, modi repellat iure id qui perspiciatis architecto praesentium? Error esse consequatur praesentium ab repudiandae fugiat perferendis adipisci facere cupiditate, mollitia aliquid harum. Cumque illo in, sequi deleniti eveniet earum reiciendis accusantium facilis nisi esse minus vel, voluptas sint quis error. Cupiditate sunt omnis, eius aspernatur minima qui cumque similique animi porro quae quidem. Dolor quibusdam magnam sunt aspernatur asperiores at explicabo quos nulla eius, ducimus consequatur quae suscipit, dicta tenetur quasi minima ipsa ab? Harum eius officia qui saepe impedit, non hic voluptatem. Maiores, accusamus, vero blanditiis non aspernatur tenetur optio aut deleniti at repellendus, delectus vel aliquam ab praesentium et odit necessitatibus voluptatem? Molestias.",
+      "price": "Платный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo voluptatibus dicta quis optio necessitatibus laboriosam, modi repellat iure id qui perspiciatis architecto praesentium? Error esse consequatur praesentium ab repudiandae fugiat perferendis adipisci facere cupiditate, mollitia aliquid harum. Cumque illo in, sequi deleniti eveniet earum reiciendis accusantium facilis nisi esse minus vel, voluptas sint quis error. Cupiditate sunt omnis, eius aspernatur minima qui cumque similique animi porro quae quidem. Dolor quibusdam magnam sunt aspernatur asperiores at explicabo quos nulla eius, ducimus consequatur quae suscipit, dicta tenetur quasi minima ipsa ab? Harum eius officia qui saepe impedit, non hic voluptatem. Maiores, accusamus, vero blanditiis non aspernatur tenetur optio aut deleniti at repellendus, delectus vel aliquam ab praesentium et odit necessitatibus voluptatem? Molestias.",
+      "price": "Бесплатный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "dxtyuhbijokpl[;p[losjiugyftdfegugjotkehylprkojige",
+      "price": "Платный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "dxtyuhbijokpl[;p[losjiugyftdfegugjotkehylprkojige",
+      "price": "Бесплатный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "dxtyuhbijokpl[;p[losjiugyftdfegugjotkehylprkojige",
+      "price": "Платный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOk9mOGMuC-Sm5Ka72dEsIhmf0pjzwmqU5Q&usqp=CAU",
+      "title": "Bus tours of the Central Asian Design Hub",
+      "descr": "dxtyuhbijokpl[;p[losjiugyftdfegugjotkehylprkojige",
+      "price": "Бесплатный",
+      "date": 3456,
+      "location": "ftyguihio",
+      "link": "https://linktr.ee/ololohaus"
+    }
+  ],
+  "users": [
+    {
+      "email": "kama@gmail.com",
+      "password": "$2a$10$w818UljHHnyrD4wBaYa31.ZXo33O0vNFFGcsmGgSARFFnpfhqGnL6",
+      "name": "kama",
+      "id": 1
+    },
+    {
+      "email": "rysbekovakamila00@gmail.com",
+      "password": "$2a$10$KPrX5OjTrUTdGqSWjOamDuFITiN1CDxlsqwllu1mYUc4tTWj2GMYa",
+      "name": "Kamila",
+      "id": 2
+    }
+  ]
+}

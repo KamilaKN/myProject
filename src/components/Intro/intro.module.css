@@ -1,0 +1,28 @@
+.wrapper {
+    background-color: #1b3764;
+    padding: 50px 0;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    /* gap: 100px; */
+}
+.title {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    margin-bottom: 85px;
+    color: #ffffff;
+}
+/* .descr {
+    font-size: 36px;
+    text-align: center; 
+}
+    */
+/* .introImg {
+    width: 50%;
+} */

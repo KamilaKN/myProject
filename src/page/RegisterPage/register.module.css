@@ -1,0 +1,20 @@
+.wrapper {
+    padding: 50px 0 ;
+    background-color: #F4F8FF;
+}
+.title {
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #1B3764;
+}
+.form {
+    width: 40%;
+    margin: auto;
+    box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.17);
+    border-radius: 30px;
+    padding: 80px 50px;
+}

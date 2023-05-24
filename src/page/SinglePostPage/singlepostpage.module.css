@@ -1,0 +1,64 @@
+.card {
+    width: 60%;
+    margin: auto;
+    padding: 70px 0 100px;
+}
+.title {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    color: #1b3764;
+    margin-bottom: 70px;
+}
+.info {
+    margin: 0 0 150px;
+    text-align: center;
+    font-family: "Cardo";
+}
+.img {
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+.price {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 15px;
+    color: #1b3764;
+    margin-top: 55px;
+}
+.date {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 15px;
+    color: #1b3764;
+}
+.location {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 20px;
+    color: #1b3764;
+}
+.descr {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #1b3764;
+}
+.btn {
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    background: #FFCA42;
+    color: #F6F8FC;
+    padding: 10px 15px;
+    text-decoration: none;
+   margin-left: 370px;
+}

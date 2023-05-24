@@ -1,0 +1,30 @@
+footer {
+    background-color: #1b3764;
+}
+.title {
+    font-family: "Cardo";
+    font-weight: 400;
+    font-size: 38px;
+    color: #ffffff;
+    text-align: center;
+    padding: 70px 0 50px;
+}
+.footer {
+    display: inline-block;
+    text-align: center;
+    padding: 100px 150px;
+}
+.titles {
+    font-family: "Cardo";
+    font-style: normal;
+    font-size: 24px;
+    color: #ffffff;
+}
+.text {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #b4c7e7;
+    padding: 20px 0 50px 0;
+}

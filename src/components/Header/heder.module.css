@@ -1,0 +1,44 @@
+header {
+    padding: 15px 0 15px;
+    background-color: #1b3764;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.active {
+    border-bottom: 2px solid #f6f8fc;
+}
+.nav {
+    display: flex;
+    justify-content: right;
+    margin-right: 60px;
+}
+.link {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    letter-spacing: 0.17px;
+    color: #f6f8fc;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.icon {
+    position: relative;
+    cursor: pointer;
+}
+.header-btn {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    background: #ffca42;
+    color: #f6f8fc;
+    padding: 18px 52px;
+    text-decoration: none;
+}

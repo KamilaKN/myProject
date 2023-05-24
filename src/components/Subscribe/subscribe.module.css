@@ -1,0 +1,40 @@
+.wrapper {
+    background-color: #ffca42;
+    padding: 71px 0 93px;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+.title {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    text-align: center;
+    padding: 100px 280px 75px ;
+    color: #1b3764;
+}
+.subscribe {
+    margin-left: 411px;
+}
+.input {
+    color: #1b3764;
+    padding: 10px 10px;
+    width: 35%;
+    height: 30px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+}
+.btn {
+    font-family: "Cardo";
+    font-style: normal;
+    font-size: 18px;
+    background-color: #1b3764;
+    color: #ffffff;
+    width: 16%;
+    height: 50px;
+    border: none;
+}
