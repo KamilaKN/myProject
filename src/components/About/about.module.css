@@ -8,13 +8,18 @@
     align-items: center;
 }
 .title {
-    font-size: 64px;
+    font-family: 'Cardo';
+    font-style: normal;
     font-weight: 400;
+    font-size: 42px;
     text-align: center;
     margin-bottom: 150px;
 }
 .descr {
-    font-size: 48px;
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
     padding-left: 950px;
     text-decoration-line: underline;
 }

@@ -8,7 +8,7 @@ const HomePage = () => {
         <div>
              <Intro/>
              <About/>
-             <Subscribe/>
+             {/* <Subscribe/> */}
         </div>
     );
 };

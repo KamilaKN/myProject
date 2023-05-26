@@ -1,0 +1,32 @@
+.wrapper {
+    margin: 50px 0 50px;
+    background: #ffca42;
+}
+.header {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.active {
+    border-bottom: 2px solid black;
+}
+.link {
+    font-family: "Cardo";
+    font-style: normal;
+    font-size: 19px;
+    color: black;
+    text-decoration: none;
+}
+.btn {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    background: #1b3764;
+    color: #f6f8fc;
+    padding: 18px 52px;
+    border: none;
+}

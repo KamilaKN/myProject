@@ -6,7 +6,7 @@ import Filter from "../../components/Filter/Filter";
 import ReactPaginate from "react-paginate";
 
 const PostsPage = () => {
-    // const [sorted, setSorted] = useState("free");
+    const [sorted, setSorted] = useState("Бесплатный");
     const [posts, setPosts] = useState([]);
 
     const [gridView, setGridView] = useState(true)
@@ -30,16 +30,10 @@ const PostsPage = () => {
             setPosts(res.data);
         });
     }, []);
-
-    // useEffect(() => {
-    //     if(sorted == "free") {
-    //      const sortedPosts = [...posts].sort((a, b) => a.price > b.price)
-    //      setPosts(sortedPosts)
-    //     }
-    // }, [sorted]);
+ 
     return (
-        <div>
-            <Filter setGridView={setGridView} gridView={gridView} />   {/*setSorted={setSorted} sorted={sorted} */}
+        <div className={styles.container}>
+            <Filter setGridView={setGridView} gridView={gridView} setSorted={setSorted} sorted={sorted} />   
             <section className={styles["posts-wrapper"]}>
                 {currentPosts.map((posts) => {
                     return (
@@ -58,12 +52,16 @@ const PostsPage = () => {
             </section>
             <ReactPaginate
                 breakLabel="..."
-                nextLabel="next >"
+                nextLabel="Next"
                 onPageChange={handlePageClick}
                 pageRangeDisplayed={5}
                 pageCount={pageCount}
-                previousLabel="< previous"
+                previousLabel=""
                 renderOnZeroPageCount={null}
+                containerClassName={styles["pagination-wrapper"]}
+                pageLinkClassName={styles["pagination-page"]}
+                nextClassName={styles["pagination-next"]}
+                activeLinkClassName={styles["pagination-active"]}
             />
         </div>
     );

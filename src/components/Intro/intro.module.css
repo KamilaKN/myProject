@@ -23,6 +23,7 @@
     text-align: center; 
 }
     */
-/* .introImg {
+.introImg {
     width: 50%;
-} */
+    margin-left: 320px;
+}

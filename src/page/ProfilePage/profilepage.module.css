@@ -1,3 +1,23 @@
-/* .cart {
+.wrapper {
+    width: 40%;
+    margin: auto;
+    padding: 50px;
+}
+.cart {
+    display: flex;
 
-} */
+}
+.cartImg {
+    border-radius: 50%;
+}
+.user {
+    padding: 70px ;
+}
+.name, .email {
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+

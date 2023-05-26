@@ -18,15 +18,17 @@ const Filter = (props) => {
                     onClick={() => props.setGridView(false)}
                     />
                 </div>
-                {/* <div className={styles.controls}>
-                    <p>
+                <div className={styles.controls}>
+                    <p className={styles["controls-text"]}>
                         Sort by
                         <select onChange={e => props.setSorted(e.target.value)} value={props.sorted}>
-                            <option value="free">Бесплатный</option>
-                            <option value="price">Платный</option>
+                            <option value="Все">Все посты</option>
+                            <option value="Бесплатный">Бесплатный</option>
+                            <option value="Платный">Платный</option>
+
                         </select>
                     </p>
-                </div> */}
+                </div>
             </div>
         </div>
     );

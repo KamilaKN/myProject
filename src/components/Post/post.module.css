@@ -7,11 +7,14 @@
     font-family: "Cardo";
     font-style: normal;
     font-weight: 700;
-    font-size: 42px;
+    font-size: 36px;
     text-align: center;
     color: #1b3764;
     margin-bottom: 70px;
 }
+/* .icon {
+    display: ;
+} */
 .info {
     margin: 0 0 150px;
     text-align: center;
@@ -25,7 +28,7 @@
 .price {
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 15px;
     color: #1b3764;
     margin-top: 55px;
@@ -33,14 +36,14 @@
 .date {
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 15px;
     color: #1b3764;
 }
 .location {
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 20px;
     color: #1b3764;
 }
@@ -48,7 +51,7 @@
     font-family: "Cardo";
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 22px;
     color: #1b3764;
 }
 .btn {

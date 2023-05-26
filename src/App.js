@@ -9,6 +9,9 @@ import ProfilePage from "./page/ProfilePage/ProfilePage"
 import RegisterPage from "./page/RegisterPage/RegisterPage"
 import LoginPage from "./page/LoginPage/LoginPage"
 import Footer from './components/Footer/Footer';
+import CartPage from "./page/CartPage/CartPage"
+import AddPostPage from './page/AddPostPage/AddPostPage';
+import MyPostsPage from './page/MyPostsPage/MyPostsPage';
 
 function App() {
   return (
@@ -22,6 +25,9 @@ function App() {
         <Route path='/profile' element={<ProfilePage/>}/>
         <Route path='/register' element={<RegisterPage/>}/>
         <Route path='/login' element={<LoginPage/>}/>
+        <Route path='/cart' element={<CartPage/>}/>
+        <Route path='/add' element={<AddPostPage/>}/>
+        <Route path='/myposts' element={<MyPostsPage/>}/>
      </Routes>
      <Footer/>
     </>

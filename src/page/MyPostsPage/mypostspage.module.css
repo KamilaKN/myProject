@@ -1,3 +1,11 @@
+.posts-wrapper {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 50px 0 100px;
+}
 .card {
     width: calc(25% - 30px);
     display: flex;
@@ -42,14 +50,4 @@
     font-size: 20px;
     color: #1b3764;
     padding: 15px 0 15px;
-}
-.card-list {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
-}
-.card-list .img {
-    width: 20%;
 }
